@@ -10,7 +10,7 @@ const player1 = {
 
 const player2 = {
   name: 'Sub-Zero',
-  hp: 15,
+  hp: 50,
   img: 'http://reactmarathon-api.herokuapp.com/assets/subzero.gif',
   weapon: ['Ice-Sword', 'Icicles'],
   attack: function () {
